@@ -14,7 +14,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'Home Work 4',
+  appName: 'Course Exam #1',
   chains,
 });
 
